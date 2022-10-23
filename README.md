@@ -2,9 +2,6 @@
   
  ## Giacomo Sirri's Profile
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&background=FF000000&center=true&lines=Thinking...;Coding...;Resting...)](https://git.io/typing-svg)
-  
-  
  ## My stats 📊
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomosirri%&bg_color=0,ff1800,000000&text_color=ffffff&title_color=ffffff&icon_color=000000&border_color=000000&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
