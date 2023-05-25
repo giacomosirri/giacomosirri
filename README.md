@@ -8,6 +8,7 @@
  
  I'm a computer science student with a passion for numbers and models. 
  I'm currently attending the last semester of the final year of the Computer Science and Engineering BSc at the University of Bologna, Italy. 
+  
   My main focus right now is in the artificial intelligence field, with particular regards to the creation and training of neural networks for time series forecasting, a problem that is extremely fascinating to me.
 
  In my profile you can find a couple of projects I've done with colleagues at university, along with some OOP labs which I've left for future use.
