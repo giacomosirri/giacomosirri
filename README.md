@@ -8,9 +8,10 @@
  
  I am a computer scientist with an extreme passion for mathematical models and data. I have recently graduated in Computer Science and Engineering at the University of Bologna with the highest grade. 
 
-I am highly skilled in designing and developing software solutions for web, mobile and desktop environments using multiple technologies and languages. In the future I would like to work on complex projects in innovative enterprises, where my determination and team-oriented mindset can make an actual impact.
+ I am highly skilled in designing and developing software solutions for web, mobile and desktop environments using multiple technologies and languages. I am always looking forward to working on complex 
+ projects both in the open-source world and in a company environment.
 
- In my profile you can find a couple of projects I've done with colleagues at university.
+ In my profile you can find some projects I've done with colleagues at university.
  
  However, the best has yet to come, so stay tuned...
  
