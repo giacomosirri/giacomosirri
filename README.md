@@ -19,7 +19,7 @@
  
  The languages I have the most expertise in are C# and Python, but I am also experienced in C, Java, Javascript, PHP and Kotlin.
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomosirri&layout=default&langs_count=10&count_private=true&bg_color=0,ff1800,000000&text_color=ffffff&title_color=ffffff&icon_color=000000&border_color=000000&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  ## My stats
   
