@@ -6,7 +6,7 @@
  
  Hi, I'm Giacomo! 
  
- I am a computer scientist with an extreme passion for mathematical models and data. I have recently graduated in Computer Science and Engineering at the University of Bologna with the highest grade. 
+ I am a computer scientist with an extreme passion for software development and data science. I have recently graduated in Computer Science and Engineering at the University of Bologna with the highest grade. 
 
  I am highly skilled in designing and developing software solutions for web, mobile and desktop environments using multiple technologies and languages. I am always looking forward to working on complex 
  projects both in the open-source world and in a company environment.
