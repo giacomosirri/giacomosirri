@@ -1,6 +1,6 @@
 <div align="center">
  
- Hi! I'm Giacomo, an Italian computer scientist passionate about software development, data science and distributed systems. I'm currently employed at Liquid Reply in Berlin, where I mainly work on the topics of cloud computing, DevOps and automation. It is no coincidence my latest repositories are made up of tutorials and trainings on GitHub Actions and Terraform!
+ Hi! I'm Giacomo, an Italian computer scientist passionate about software development, data science and distributed systems. I'm currently employed at Liquid Reply in Berlin, where I mainly work on the topics of cloud computing, DevOps and platform engineering. It is no coincidence my latest repositories are made up of tutorials and trainings on GitHub Actions and Terraform!
  
 ## Past projects
 
