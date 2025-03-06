@@ -1,26 +1,17 @@
 <div align="center">
-  
- ## Giacomo Sirri's Profile
- 
- ## About me
  
  Hi, I'm Giacomo! 
  
- I am a computer scientist with an extreme passion for software development and data science. I have recently graduated in Computer Science and Engineering at the University of Bologna with the highest grade. 
-
- I am highly skilled in designing and developing software solutions for web, mobile and desktop environments using multiple technologies and languages. I am always looking forward to working on complex 
- projects both in the open-source world and in a company environment.
-
- In my profile you can find some projects I've done with colleagues at university.
+ I'm an Italian computer scientist passionate about software development, data science and distributed systems. I'm currently working at Liquid Reply in Berlin, where I apply and expand my knowledge about cloud computing, DevOps and automation. This is also why my latest repositories are made up of tutorials and trainings on GitHub Actions and Terraform.
  
- However, the best has yet to come, so stay tuned...
+## Past projects
+
+ I have strong academic backgrounds in software development. Over the course of my bachelor I have developed — as part of group projects — applications for web (Snippex, a simple social network), mobile (GiftAlong, an Android app to pick gifts with others) and desktop (Resplan, a basic digital audio workstation). You can find all the repositories on this page. Perhaps, I will pick them up again in the next few months, but for now they are abandoned.
+
+ I'm also very passionate about machine learning and AI. I spent my two internships at Alexide Srl on building a neural network for indoor temperature prediction, with the aim of improving the efficiency of the proprietary HVAC operator. The repository Time-Series-Forecasting contains a test implementation of a feed-forward network, trained on public data from a weather station in Jena, Germany.
+
+ I also have some experience in more niche areas of computer science, such as computer vision and high-performance computing. There are no repos on those subjects, even though I did a fluid dynamic simulator for distributed systems while at university. Anyway, my knowledge about those fields is so far very limited.
  
  ## Languages
  
- The languages I have the most expertise in are C# and Python, but I am also experienced in C, Java, Javascript, PHP and Kotlin.
- 
- ## My stats
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomosirri&show_icons=true&theme=radical)
-  
-</div>
+ I can program in Python, C#, Java, C, Javascript, Kotlin and PHP, roughly in descending order of proficiency.
