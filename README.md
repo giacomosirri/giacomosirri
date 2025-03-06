@@ -8,7 +8,7 @@
 
  I'm also very passionate about machine learning and AI. I spent my two internships at Alexide Srl on building a neural network for indoor temperature prediction, with the aim of improving the efficiency of the proprietary HVAC operator. The repository Time-Series-Forecasting contains a test implementation of a feed-forward network, trained on public data from a weather station in Jena, Germany.
 
- I also have some experience in more niche areas of computer science, such as computer vision and high-performance computing. There are no repos on those subjects, even though I did a fluid dynamic simulator for distributed systems while at university. Anyway, my knowledge about those fields is so far very limited.
+ I also have some experience in more niche areas of computer science, such as computer vision and high-performance computing. There are no repos on those subjects, even though I developed a simplified fluid dynamic simulator for distributed systems while at university. Anyway, my knowledge about those fields is so far very limited.
  
  ## Languages
  
