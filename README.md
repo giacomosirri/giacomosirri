@@ -15,3 +15,5 @@
  ## Languages
  
  I can program in Python, C#, Java, C, Javascript, Kotlin and PHP, roughly in descending order of proficiency.
+ 
+ As for human languages, I am native in Italian, fluent in English, and almost conversational in German.
