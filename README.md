@@ -4,7 +4,7 @@
  
  I'm currently employed at Liquid Reply in Berlin, where I mainly work on the topics of cloud computing, DevOps and platform engineering. It is no coincidence my latest repositories are made up of tutorials and trainings on GitHub Actions and Terraform!
  
-## Projects
+## Projects and background
 
  I have strong academic backgrounds in software development. Over the course of my bachelor I have developed—as part of group projects—applications for web (Snippex, a simple social network), mobile (GiftAlong, an Android app to pick gifts with others) and desktop (Resplan, a basic digital audio workstation). You can find all these repositories here on GitHub. Perhaps, I will pick them up again in the next few months, but for now they are abandoned.
 
